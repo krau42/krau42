@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krau42! I am starting my coding journey. I have a base proficiency in some coding tasks but hope to develop my skills as a programmer with DIY projects. 
 - 👀 I’m interested in automating processes for efficiency, web/data scraping, and machine learning with autonomous possibilities. I'm also incredibly interested in OCR!
-- 🌱 I’m currently learning Python, Swift, VBA, and starting to dabble in Linux with Raspberry Pi's
+- 🌱 I’m currently learning Python, Swift, Angular, and starting to dabble in Linux with Raspberry Pi's
 - 💞️ I’m looking to collaborate on beginer and intermediate projects!
 - 📫 How to reach me ...
